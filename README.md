@@ -2,12 +2,10 @@
 
 
 Author By Arikun @ BekasiSec | Since 2017
-Thanks Yg Udah Support W Dalam Membuat Tools INi 
+Thanks Yg Udah Support W Dalam Membuat Tools INi
 Versi web Ada Kok : http://sentools.000webhostapp.com/SCG/
 Recode ? Ganti Author ? Jancox Kowe!
-Recode Gak Membuat Anda Menjadi Progammer Ea Njing...
-Tq 
-
+Recode Gak Membuat Anda Menjadi Progammer Ea Njing...Tq 
 
 >>   Shoottzz <<
 IndoSec
